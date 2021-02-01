@@ -1,10 +1,10 @@
-//  Um software que possibilita a denúncia de descarte irregular de lixos e entulhos e/ou descarte consciente de lixos. Conheça o Recicla Bem Web.
+//  Um programa que possibilita a denúncia de descarte irregular de lixos e entulhos e/ou descarte consciente de lixos. Conheça o Recicla Bem Web.
 
 package portifólio;
 
 import java.util.Scanner;
 
-public class ReciclaBemWeb {
+public class reciclaBem {
 	public static void main(String args[]) {
 		String nome, endereco, comentario, anonima, denuncia, dia1 = "0", hora = "0", email;
 		int opcao, op, resposta, dia, horario;
