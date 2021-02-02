@@ -4,7 +4,7 @@ package portifólio;
 
 import java.util.Scanner;
 
-public class reciclaBem {
+public class ProjetoReciclaBemNaWeb {
 	public static void main(String args[]) {
 		String nome, endereco, comentario, anonima, denuncia, dia1 = "0", hora = "0", email;
 		int opcao, op, resposta, dia, horario;
@@ -166,6 +166,9 @@ public class reciclaBem {
 
 		}
 		System.out.println("");
+
+		System.out.println("Desenvolvedores deste projeto:\nBeatriz Oliveira.\nBruna Soares.\nCaroline Miranda.\nLucas S. Pereira.\nNicolas F. Vasconcelos");
+		
 	}
 
 }
